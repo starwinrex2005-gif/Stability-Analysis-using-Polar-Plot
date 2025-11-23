@@ -51,7 +51,8 @@ else
 	
 end
 ## Output:
-<img width="693" height="625" alt="image" src="https://github.com/user-attachments/assets/e8164324-5cf1-4da3-a8db-599c43c1d0b5" />
+<img width="1102" height="1028" alt="image" src="https://github.com/user-attachments/assets/3787b7ef-06a4-498d-bb1f-7ca2219037a3" />
+
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB.
